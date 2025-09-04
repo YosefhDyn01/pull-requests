@@ -33,14 +33,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Spanish
+          level: Nativo
 
         - idiom: French
-          level: Professional
+          level: A1
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: B2
 
     interests:
       title: Interests

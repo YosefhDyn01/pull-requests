@@ -56,13 +56,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary:
+      Soy estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana, actualmente cursando el quinto semestre. Apasionado por la tecnología y el desarrollo de software, me enfoco en la resolución de problemas complejos y en la optimización de procesos mediante soluciones tecnológicas.  
+      A lo largo de mi formación, he desarrollado una sólida base en programación, análisis de sistemas y gestión de proyectos. Tengo experiencia trabajando con lenguajes de programación como C, C++, Python y Java, y me interesa seguir expandiendo mis conocimientos en desarrollo de software, inteligencia artificial y bases de datos.
+      Busco oportunidades para aplicar mis habilidades, aprender de profesionales experimentados y colaborar en proyectos innovadores que contribuyan al desarrollo de soluciones tecnológicas efectivas.
+
 education:
     title: Education
     info:
